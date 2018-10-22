@@ -1,0 +1,5 @@
+val Loss: 0.03890582 Accuracy: 0.0000
+val Loss: 0.03890582 Accuracy: 0.0000
+val Loss: 0.03890582 Accuracy: 0.0000
+val Loss: 0.03890582 Accuracy: 0.0000
+val Loss: 0.03890582 Accuracy: 0.0000
